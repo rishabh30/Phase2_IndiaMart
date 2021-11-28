@@ -2,7 +2,7 @@
 
 #### Project Title
 
-# IndiaMART Hackathon Phase-2 
+# IndiaMART Hackathon Phase-2 (July 2019)
 
 ### Problem Statement
 Design an model to to gauge the appropriate price range per unit for each of the categories listed on Indiamart.
